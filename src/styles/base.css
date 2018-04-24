@@ -80,7 +80,9 @@
 
 .cc-highlight .cc-btn:first-child {
   background-color: transparent;
-  border-color: transparent;
+  border-color: #fff;
+  border-width: 1px;
+  min-width: 140px;
 }
 
 .cc-highlight .cc-btn:first-child:hover,
